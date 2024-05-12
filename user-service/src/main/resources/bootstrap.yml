@@ -8,3 +8,5 @@ spring:
       server-addr: localhost:80 # nacos地址
       config:
         file-extension: yaml # 文件后缀名
+      #discovery:
+      #  ephemeral: false
